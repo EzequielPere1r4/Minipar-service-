@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: minipar.minipar_service.MiniparServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.016 s -- in minipar.minipar_service.MiniparServiceApplicationTests
